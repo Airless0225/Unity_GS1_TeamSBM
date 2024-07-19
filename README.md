@@ -55,6 +55,7 @@ ScenesはAssets直下のScenesではなく、**Projectフォルダ内の"Scenes"
 ## git規則
 
 コミットメッセージは以下の無いようにのっとって書くこと。
+
 記述例「プレイヤーがジャンプできるようにした場合」→Update:プレイヤーのジャンプ機能を追加
 
 ![2024-07-18_155024](https://github.com/user-attachments/assets/bb17101d-eed6-4aa6-9668-6d2b7f11da3f)
