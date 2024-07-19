@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SNES - Super Bomberman - Stage 1-1_0: -6397807137192534676
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
